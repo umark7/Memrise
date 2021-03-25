@@ -1,0 +1,93 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 2em;
+    color: darkgreen;
+    background-image: url('valleyImage.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 25px;
+    font-weight: bold;
+}
+  
+h1 {
+    font-style: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #da1848;
+
+}
+
+button {
+    padding: 15px;
+    border-radius: 20px;
+    border: dashed 5px red;
+    background-color: lightcyan;
+    color: darkgreen;
+    font-family: Segoe 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    margin-left: 48%;
+}
+
+#gameButtonArea > button {
+    width:200px;
+    height:200px;
+    margin:70px;
+  }
+
+.hidden {
+    display: none;
+}
+
+
+#button1 {
+ 
+    background-color: lightgreen;
+    font-weight: bolder;
+    border: solid 2px blueviolet;
+    border-radius: 20px;
+    background-image: url(green.jpg);
+}
+#button1:active, #button1.lit {
+    background:green;
+
+}
+
+#button2 {
+ 
+    background-color: lightblue;
+    font-weight: bolder;
+    border: solid 2px blueviolet;
+    border-radius: 20px;
+    background-image: url(blue.jpg);
+}
+#button2:active, #button2.lit {
+    background:blue;
+}
+
+#button3 {
+ 
+    background-color: pink;
+    font-weight: bolder;
+    border: solid 2px blueviolet;
+    border-radius: 20px;
+    background-image: url(african-daisy.jpg);
+}
+#button3:active, #button3.lit {
+    background:red;
+}
+
+#button4 {
+ 
+    position: relative;
+    background-color: lightyellow;
+    font-weight: bolder;
+    border: solid 2px blueviolet;
+    border-radius: 20px;
+    background-image: url(yellow.png);
+}
+#button4:active, #button4.lit {
+    background:yellow;
+}
+
+
