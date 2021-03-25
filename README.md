@@ -7,7 +7,7 @@ Submitted by: **Umar Kagzi**
 
 Time spent: **7** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/~memrise-game
 
 ## Required Functionality
 
@@ -50,10 +50,12 @@ Here's a walkthrough of implemented user stories:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 I used the W3Schools website to learn more about styling in CSS, JS basic syntax, and issues in HTML, and YouTube tutorials from Kevin Powell for background images and other issues.
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+ 
 A challenge I encountered while creating the submission was when I needed to code the logic portion of the Guess function in the JavaScript file. Although I have seen JS in the past, I wasn't confident enough to write the code in JS and it seemed like a herculean task. Although I had seen the hints and the "show code" solution button at my fingertips, I forced myself to try and come up with the solution myself. I am well versed in other coding languages such as Java and C++, so I decided that I should first try to pseudocode the logic portion first and then code it in Java. The pseudocode and Java solution did take me a while, but I was able to get a seemingly runnable version on my end. After the completion of my Java code, I researched the differences between Java and JavaScript and tried to pseudocode my existing Java code into JS. Finally, I allowed myself to look at the solution code on the Codepath project website and compared it to my own JS code. I realized that I had made a few errors, but for the most part my logic aligned to the correct logic on the solution. Overall, the detour I had made to try and come uup with the logic solution was worthwhile because I understood how to adapt my existing Java code into JS while also allowing me to practice and learn JS!
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 I had a few questions about web development, and they are as follows:
 
 1) What are the challenges that Web Devs face today in terms of innovations of websites? How do you know and keep up with the latest website trends?
@@ -61,6 +63,7 @@ I had a few questions about web development, and they are as follows:
 3) Web Dev seems like a wide-ranging role with frontend and backend development. Do web devs have to be well-versed in both ends of development even if they want to work in one end?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had a few more hours to work on the project, I would work on both the frontend and the backend side of the website to make if more efficient and feature-full as well as aesthetically pleasing to the eye. For the backend, I would love if this game could be hosted online so that many would be able to enjoy the game and be able to add a leaderboard for the highest ranking players! For the frontend, I would want to add more levels, different shapes, UI enhancements, and many other additions that would improve the overall user experience of the game!
 
 
