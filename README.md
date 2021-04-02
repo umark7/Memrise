@@ -1,5 +1,5 @@
 # Memrise
-# Pre-work - *Memrise*
+# *Memrise*
 
 **Memrise** is a Light & Sound Memory game! Made with a full frontend and backend from scratch, it can be played directly on your browser!
 I used JS for the backend, and HTML/CSS for the front-end.
@@ -51,6 +51,7 @@ https://i.imgur.com/FVg7TvJ.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 I used the W3Schools website to learn more about styling in CSS, JS basic syntax, and issues in HTML, and YouTube tutorials from Kevin Powell for background images and other issues.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
@@ -62,7 +63,9 @@ A challenge I encountered while creating the submission was when I needed to cod
 I had a few questions about web development, and they are as follows:
 
 1) What are the challenges that Web Devs face today in terms of innovations of websites? How do you know and keep up with the latest website trends?
+
 2)  Why do Web Devs change up the designs of websites even if there are already aesthetically pleasing and "do the job"? Is there a shift in consumer satisfaction of websites that causes companies to change up websites?
+
 3) Web Dev seems like a wide-ranging role with frontend and backend development. Do web devs have to be well-versed in both ends of development even if they want to work in one end?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
