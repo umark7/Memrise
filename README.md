@@ -1,7 +1,8 @@
 # Memrise
 # Pre-work - *Memrise*
 
-**Memrise** is a Light & Sound Memory game!
+**Memrise** is a Light & Sound Memory game! Made with a full frontend and backend from scratch, it can be played directly on your browser!
+I used JS for the backend, and HTML/CSS for the front-end.
 
 Submitted by: **Umar Kagzi**
 
